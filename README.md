@@ -1,8 +1,8 @@
-Car Rental Web App - LuxRide
+# Car Rental Web App - LuxRide
 
 The Car Rental project is a comprehensive MERN stack web application tailored for small rental companies. It encompasses end-to-end functionality, including user authentication, booking management, and admin features. This application is built using Node.js, Express.js, React.js, Redux, MongoDB, and Mongoose.
 
-Features
+# Features
 
 - **Browse Cars** – View a wide range of available cars with details.
 - **Real-time Booking System** – Book cars based on availability and dates.
@@ -13,7 +13,7 @@ Features
 
 ---
 
-Tech Stack
+# Tech Stack
 
 **Frontend**  
 - HTML, CSS, JavaScript  
@@ -29,7 +29,7 @@ Tech Stack
 
 ---
 
-How to Run Locally
+# How to Run Locally
 
 1. **Clone the repository**
    ```bash
@@ -64,11 +64,11 @@ npm start
 # In frontend
 npm run dev
 ---
-Screenshots
+# Screenshots
 
 
-📬 Contact
+# Contact
 Feel free to connect with me:
-📧 Email: koleysayaneducation@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/sayan-koley/
+Email: koleysayaneducation@gmail.com
+LinkedIn: https://www.linkedin.com/in/sayan-koley/
 
